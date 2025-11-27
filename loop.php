@@ -2,7 +2,7 @@
 <html lang="th">
 <head>
     <meta charset="UTF-8">
-    <title>การบ้าน PHP</title>
+    <title>Loop</title>
     <style>
         body {
             font-family: "Tahoma", sans-serif;
@@ -44,9 +44,8 @@
 <body>
 
     <?php
-    // -------------------------------
+    
     // ส่วนที่ 2: การใช้ Loop
-    // -------------------------------
 
     echo "<h2>ใช้ Loop for</h2>";
     echo "<div class='output'>";
@@ -100,4 +99,5 @@
     echo "<div class='note'>นี่คือการใช้ while loop เพื่อสร้างตัวเลขเรียงจากมากไปน้อย</div>";
     ?>
 </body>
+
 </html>
