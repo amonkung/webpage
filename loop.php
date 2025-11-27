@@ -45,7 +45,7 @@
 
     <?php
     
-    // ส่วนที่ 2: การใช้ Loop
+    //การใช้ Loop
 
     echo "<h2>ใช้ Loop for</h2>";
     echo "<div class='output'>";
@@ -101,3 +101,4 @@
 </body>
 
 </html>
+
