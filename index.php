@@ -43,9 +43,6 @@
 </head>
 <body>
 <?php
-    // -------------------------------
-    // ส่วนที่ 1: ข้อมูลนักศึกษา
-    // -------------------------------
     $university = "";
     $faculty = "";
     $major = "";
@@ -67,3 +64,4 @@ $image_url = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgk
     </div>
 </body>
 </html>
+
